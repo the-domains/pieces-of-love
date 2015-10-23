@@ -1,0 +1,23 @@
+name: Pieces of Love
+favicon: null
+layout_spectrum: 0.32990276627242565
+typography_spectrum: 0.874703356064856
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7343770971056074
+  lightness: 0.863001765217632
+  saturation: 0.9892140275333077
+  rhythmicContrast: 0.874218147713691
+purpose: []
